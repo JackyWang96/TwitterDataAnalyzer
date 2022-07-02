@@ -24,18 +24,6 @@ Simple illustration of the system is shown in the figure below.
 5. What are the trends of attention and attitudes of people towards unemployment? 
 6. What is the correlation of people talking about unemployment on tweet and the unemployment and youth unemployment rate?
 
-### Contributors
-
-Ran Liang 		1162222
-
-Yulun Huang 	910398
-
-Yubo Sun 		1048638
-
-Yanhao Wang 	1142087
-
-Xindi Fang 		749394
-
 
 ### Links
 
